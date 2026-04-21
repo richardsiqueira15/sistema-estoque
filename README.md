@@ -12,13 +12,20 @@ O **Sistema de Estoque** foi desenvolvido para facilitar o gerenciamento de prod
 
 ---
 
+## 🔐 Controle de Acesso
+
+O sistema implementa controle de acesso baseado em níveis de usuário (RBAC), onde cada usuário visualiza apenas as funcionalidades permitidas conforme seu perfil.
+
+Isso garante maior segurança e organização no uso do sistema.
+
 ## 🧩 Funcionalidades
 
 ✔️ Sistema de login com autenticação  
+✔️ Controle de acesso por nível de usuário (RBAC)  
+✔️ Exibição dinâmica de funcionalidades conforme permissões  
 ✔️ Cadastro de produtos  
 ✔️ Controle de entrada e saída de estoque  
 ✔️ Registro de movimentações  
-✔️ Seleção de datas com calendário  
 ✔️ Exportação de dados (CSV / Excel)  
 ✔️ Interface gráfica com Tkinter  
 
