@@ -4,3 +4,5 @@ build/
 dist/
 *.exe
 *.spec
+setup_banco.py
+teste_tablet.py
