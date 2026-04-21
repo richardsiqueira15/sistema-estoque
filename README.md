@@ -68,3 +68,10 @@ git clone https://github.com/seuusuario/sistema-estoque.git
 cd sistema-estoque
 pip install -r requirements.txt
 python main.py
+```
+
+## 👨‍💻 Autor
+
+Richard Siqueira 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/richard-siqueira-74a297263/)
